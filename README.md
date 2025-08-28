@@ -89,7 +89,7 @@ Example:
 
 ## 👨‍💻 Developer
 
-**hadalici** - 42 Istanbul student
+**Haktan Dalıcı**
 
 ---
 
